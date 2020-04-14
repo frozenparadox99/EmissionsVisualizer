@@ -1,5 +1,5 @@
 * {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 body {
@@ -38,7 +38,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
- 
+
 .chart-container {
   display: inline-block;
   width: 45%;
@@ -61,7 +61,7 @@ body {
 }
 
 .tooltip:after {
-  content: ' ';
+  content: " ";
   position: absolute;
   left: 50%;
   border: 8px solid transparent;
